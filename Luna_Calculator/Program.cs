@@ -9,7 +9,6 @@ namespace Luna_Calculator
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Calculator");
-            Console.WriteLine("Please input first number");
             Console.WriteLine("Enter equition and hit enter to get the result");
             Console.WriteLine("E.g., 1+2");
             var equition = Console.ReadLine();
